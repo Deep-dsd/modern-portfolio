@@ -31,7 +31,7 @@ const portfolioData = {
     phone: "+91 98765 43210",
     location: "Bengaluru, Karnataka",
     profileImage: "assets/images/profile.jpg",
-    resumeUrl: "assets/resume.pdf" // Link to downloadable resume (optional - remove if not needed)
+    resumeUrl: "assets/resume.docx"
   },
   
   // ============================================
