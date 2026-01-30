@@ -11,6 +11,7 @@ Convert the provided resume into a JSON object matching the exact structure belo
 6. Set `featured: true` for the most impressive 2-3 projects
 7. Make the tagline punchy and professional (one line)
 8. For achievements, quantify with numbers where possible (keep from resume or infer reasonably)
+9. Make sure the object gets generated inside a constant named `portfolioData`
 
 ## JSON Structure
 
